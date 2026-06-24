@@ -67,11 +67,11 @@ juce_add_plugin(
   PRODUCT_NAME
     ${TREMOLO_PLUGIN_NAME}
   VERSION
-        0.0.0 # 0 forces AU hosts to always refresh
+    0.0.0 # 0 forces AU hosts to always refresh
   COMPANY_NAME
-        "AryanSound"
+    "Silocto"
   PLUGIN_MANUFACTURER_CODE
-    Asnd
+    Soct
   PLUGIN_CODE
     Trcp
   FORMATS
